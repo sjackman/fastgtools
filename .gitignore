@@ -11,3 +11,14 @@
 *.lai
 *.la
 *.a
+
+# autoconf and automake
+Makefile.in
+aclocal.m4
+autom4te.cache
+config.h.in
+configure
+depcomp
+install-sh
+missing
+ylwrap
